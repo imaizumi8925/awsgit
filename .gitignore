@@ -1,5 +1,0 @@
-﻿# git 無視設定
-.DS_Store
-Thumbs.db
-# uploads/*
-# !.gitkeep
